@@ -1,0 +1,3 @@
+basic gan/images/
+basic gan/discriminator.h5
+basic gan/generator.h5
